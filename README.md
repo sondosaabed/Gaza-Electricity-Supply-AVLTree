@@ -17,8 +17,18 @@ In this project, you will implement an Electricity data structure using combined
 
 
 ## GUI
+![image](https://github.com/sondosaabed/Gaza-Electricity-Supply-AVLTree/assets/65151701/ea744733-aa01-4432-8163-d45cb988e7d8)
+
 ### Managemnet Screen
+![image](https://github.com/sondosaabed/Gaza-Electricity-Supply-AVLTree/assets/65151701/5f1c9daa-e7aa-4a68-a69d-6a6e411d8390)
+
+![image](https://github.com/sondosaabed/Gaza-Electricity-Supply-AVLTree/assets/65151701/82b56e4f-e1d6-494b-bcfa-7988961d36f8)
 
 ### Statics Screen
+![image](https://github.com/sondosaabed/Gaza-Electricity-Supply-AVLTree/assets/65151701/983d8d35-28ee-4796-a8df-a585ee16c960)
+
+![image](https://github.com/sondosaabed/Gaza-Electricity-Supply-AVLTree/assets/65151701/3e690c06-6f5d-44a5-bfd1-72f6fe90d882)
 
 ### Save to CSV Screen
+![image](https://github.com/sondosaabed/Gaza-Electricity-Supply-AVLTree/assets/65151701/56730a52-324d-445e-a674-3d708907e682)
+
