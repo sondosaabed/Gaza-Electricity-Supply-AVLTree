@@ -13,8 +13,9 @@ The data presented in the attached file (Electricity.csv) is provided to OCHA on
 
 In this project, you will implement an Electricity data structure using combined AVL trees. The following figure shows the overall data structure: 
 
-![image](https://github.com/sondosaabed/Gaza-Electricity-Supply-AVLTree/assets/65151701/0c5e9a26-7937-4bd7-b877-6c5cc9c1e0a3)
-
+<div align="center">
+<img src="https://github.com/sondosaabed/Gaza-Electricity-Supply-AVLTree/assets/65151701/0c5e9a26-7937-4bd7-b877-6c5cc9c1e0a3" height="700"/>
+</div>
 
 ## GUI
 ![image](https://github.com/sondosaabed/Gaza-Electricity-Supply-AVLTree/assets/65151701/ea744733-aa01-4432-8163-d45cb988e7d8)
